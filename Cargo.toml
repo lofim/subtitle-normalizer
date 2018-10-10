@@ -1,6 +1,7 @@
 [package]
-name = "titulkovac"
+name = "subtitle-normalizer"
 version = "0.1.0"
-authors = ["Martin Lofaj <martin.lofaj@accenture.com>"]
+authors = ["Martin Lofaj <lofajmatko@gmail.com"]
 
 [dependencies]
+unicode-normalization = "0.1.7"
